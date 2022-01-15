@@ -1,0 +1,5 @@
+If you're an anime passionate and always   quoting characters, you sure came to the right place 
+
+With "Anime Quote" you're provided with many iconic quotes from several anime series that render randomly allowing your to add some to your favorites and even add your own anime quotes 
+
+The web application is fully developed with ReactJS
